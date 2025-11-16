@@ -2,11 +2,11 @@
 <h3 align="center">Founder of Island Aesthetic | QA Engineer | Creative Designer</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/iamlalu05" width="150" style="border-radius:50%" alt="Muntasir's Profile Photo"/>
+  <img src="https://github.com/iamlalu05.png" width="150" alt="Muntasir's Profile Photo"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-banner.vercel.app/api?text=Island+Aesthetic+%7C+Design+%26+QA+%7C+Bilingual+Creator&font=Fira+Code&color=00F7FF&center=true" alt="Banner"/>
+  <img src="https://github-readme-banner.vercel.app/api?text=Muntasir+Mohamed+Tariq+%7C+Design+%26+QA+Engineer&font=Fira+Code&color=00F7FF&center=true" alt="Personal Banner"/>
 </p>
 
 ---
@@ -63,15 +63,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntasirtariq&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirtariq&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamlalu05&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamlalu05&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-- 🌐 [Island Aesthetic on Instagram](https://www.instagram.com/islandaesthetic/)
+- 🌐 [Instagram](https://www.instagram.com/iamlalu05)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muntasir-mohamed-tariq/)
 - 🧑‍💻 [GitHub Portfolio](https://github.com/iamlalu05)
 - 📧 Email: `muntrq@gmail.com`
@@ -82,7 +82,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Login UI** | Clean bilingual login interface | Laravel, Bootstrap |
+| **Login UI** | Clean login interface | Laravel, Bootstrap |
 | **School Complaint Page** | Clean login, Complain Form and Dashboard User interface | React, Bootstrap |
 
 
