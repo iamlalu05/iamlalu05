@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-banner.vercel.app/api?text=Muntasir+Mohamed+Tariq+%7C+Design+%26+QA+Engineer&font=Fira+Code&color=00F7FF&center=true" alt="Personal Banner"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFHgnCYPFn0WQ/profile-displaybackgroundimage-shrink_350_1400/B56ZmUvOBhI8AY-/0/1759137031485?e=1764806400&v=beta&t=blAtk2CIXrhoSbaF2egLz6qPgkKa-QjLhDnj_vnVowY"/>
 </p>
 
 ---
