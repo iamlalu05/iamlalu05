@@ -14,7 +14,7 @@
 ### 🧠 About Me
 
 - 🎨 Founder of **Island Aesthetic**, a branding studio
-- 🧪 Software QA Intern at **SoftwarePlus Pvt Ltd**
+- 🧪 Software QA & Tech Support Engineer at **ABi Systems**
 - 🖌️ Freelance designer open to new opportunities
 - 📍 Based in Eastern Province, Sri Lanka
 - 🗣️ Fluent in **English,Hindi,Sinhala** & **Tamil**
